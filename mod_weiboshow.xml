@@ -19,7 +19,7 @@
 <field name="uid" type="text" default="1864556907" label="用户ID" description="" size="10" />
 <field name="verifier" type="text" default="adfb3d94" label="身份验证" description="" size="10" />
 <field type="spacer" hr="true" />
-<field name="width" type="text" default="350" label="宽度（单位px）" description="宽度:190-1024px,留空为宽度自动适应" size="10" />
+<field name="width" type="text" default="" label="宽度（单位px）" description="宽度:190-1024px,留空为宽度自动适应" size="10" />
 <field name="height" type="text" default="550" label="高度（单位px）" description="高度:75-800px" size="10" />
 <field type="spacer" hr="true" />
 <field name="skin" type="radio" default="1" label="外观方案" description="">
